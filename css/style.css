@@ -216,6 +216,7 @@ body {
 .hero-btns {
     display: flex;
     gap: 15px;
+    margin-bottom: 20px;
 }
 
 .btn {
@@ -663,3 +664,4 @@ body {
         font-size: 1.2rem;
     }
 }
+
